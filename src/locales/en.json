@@ -1,0 +1,63 @@
+{
+
+  "begin_general_translate": "//////////////",
+  "user_name": "User Name",
+  "password": "Password",
+  "welcome_to_company": "Welcome to Company",
+  "button_login": "Login",
+  "type_to_search": "Type to Search",
+  "send": "Send",
+
+  "currency_debit": "Currency Debit",
+  "currency_credit": "Currency Credit",
+  "currency_dollar_credit": "Currency Dollar credit",
+
+  "name_beneficiary": "Name Beneficiary",
+  "entity_to_send": "Entity",
+  "phone_beneficiary": "Phone Beneficiary",
+  "currency_send": "Currency Send",
+  "amount_send": "Amount Send",
+  "currency_receive": "Currency Receive",
+  "amount_receive": "Amount Receive",
+  "wages": "Wages",
+  "exchange": "Exchange",
+  "note": "Note",
+  "address": "Address",
+  "copy": "Copy",
+
+
+
+  "dashboard_home": "Dashboard",
+  "new_transfer": "new_transfer",
+  "sawa_transfer": "sawa_transfer",
+  "new_confirm": "new_confirm",
+  "payment_voucher": "payment_voucher",
+
+
+
+  "outgoing_page": "Outgoing",
+
+
+  "incoming_page": "Incoming",
+
+  "confirms_page": "Confirms",
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "end_general_translate": "//////////////"
+
+
+
+
+
+}

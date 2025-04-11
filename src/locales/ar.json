@@ -1,0 +1,64 @@
+{
+
+  "begin_general_translate": "//////////////",
+  "user_name": "اسم المستخدم",
+  "password": "كلمة السر",
+  "welcome_to_company": "مرحباً بكم في شركة التحويلات",
+  "button_login": "تسجيل الدخول",
+  "type_to_search": "أكتب للبحث",
+  "send": "ارسال",
+
+
+  "currency_debit": "عملة المدين",
+  "currency_credit": "عملة الدائن",
+  "currency_dollar_credit": "عملة الدولار الدائن",
+
+  "name_beneficiary": "اسم المستفيد",
+  "phone_beneficiary": "هاتف المستفيد",
+  "entity_to_send": "الجهة",
+  "currency_send": "عملة الارسال",
+  "amount_send": "مبلغ الارسال",
+  "currency_receive": "عملة الاستلام",
+  "amount_receive": "مبلغ الاستلام",
+  "wages": "الاجور",
+  "exchange": "الصرف",
+  "note": "الملاحظات",
+  "address": "العنوان",
+  "copy": "نسخ",
+
+
+
+
+  "dashboard_home": "الصفحة الرئيسية",
+  "new_transfer": "حوالة جديدة",
+  "sawa_transfer": "حوالة سوا",
+  "new_confirm": "اعتماد جديد",
+  "payment_voucher": "سند صرف",
+
+  "outgoing_page": "الصادر",
+  "outgoing_transfers": "الحوالات الصادرة",
+  "transfer_reserved_pending_execution": "حوالة محجوزة لحين التنفيذ",
+
+
+  "incoming_page": "الوارد",
+  "incoming_transfers": "الحوالات الواردة",
+  "delivered_transfers": "الحوالات المسلمة",
+
+  "confirms_page": "الاعتمادات",
+  "outgoing_credits": "اعتمادات صادرة",
+  "incoming_credits": "اعتمادات واردة",
+
+
+
+
+
+
+
+
+  "end_general_translate": "//////////////"
+
+
+
+
+
+}
